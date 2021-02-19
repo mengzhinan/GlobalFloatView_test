@@ -16,6 +16,8 @@ import android.widget.Toast;
  * version: 1.0
  * dateTime: 2021-02-19 14:49
  * description:
+ * 可参考博客：https://www.jianshu.com/p/41c8b2c5c953
+ * Github：https://github.com/czy1121/settingscompat
  */
 public class GlobalFloatView {
 
